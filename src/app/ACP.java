@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Cole
  */
-public class APP {
+public class ACP {
 
     /**
      * @param args the command line arguments
